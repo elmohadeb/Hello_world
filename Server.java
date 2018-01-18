@@ -6,8 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-
+// class server
 public class Server {
     private Socket so;
     private ServerSocket sc;
